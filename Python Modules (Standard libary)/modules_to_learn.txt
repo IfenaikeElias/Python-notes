@@ -1,0 +1,96 @@
+File and OS Operations:
+
+os
+
+sys
+
+shutil
+
+pathlib 
+
+platform
+
+Concurrency and Parallelism:
+asyncio
+
+threading
+
+multiprocessing
+
+queue
+
+Data Manipulation and Analysis:
+
+collections
+
+itertools
+
+functools
+
+operator (if considering this one for functional programming)
+
+Networking and Web:
+
+socket
+
+http.server
+
+email
+
+Mathematics and Statistics:
+math
+
+random
+
+statistics (if considering this one as it’s often useful in data science)
+
+hashlib
+
+Serialization and File Formats:
+
+json
+
+sqlite3
+
+pickle (if considering this one for object serialization)
+
+zip
+
+Error Handling and Debugging:
+
+unittest
+
+unittest.mock
+
+pytest (not built in but useful)
+
+trace
+
+logging
+
+traceback
+
+Utilities and Miscellaneous:
+
+subprocess
+
+uuid
+
+configparser
+
+re
+
+datetime
+
+
+
+
+
+
+
+
+
+
+
+
+
