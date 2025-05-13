@@ -80,8 +80,6 @@ uuid
 
 configparser
 
-collections
-
 datetime
 
 
